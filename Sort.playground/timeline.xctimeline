@@ -3,23 +3,28 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/Chu/Desktop/IOS/Playground/Sort.playground#CharacterRangeLen=517&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=27&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=538991325.408617"
+         documentLocation = "file:///Users/Chu/Desktop/IOS/Playground/Sort.playground#CharacterRangeLen=535&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=35&amp;EndingLineNumber=26&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=538993618.3872401"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/Chu/Desktop/IOS/Playground/Sort.playground#CharacterRangeLen=517&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=27&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=538991325.408744"
+         documentLocation = "file:///Users/Chu/Desktop/IOS/Playground/Sort.playground#CharacterRangeLen=535&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=35&amp;EndingLineNumber=26&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=538993618.3874609"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/Chu/Desktop/IOS/Playground/Sort.playground#CharacterRangeLen=517&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=27&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=538991325.408836"
+         documentLocation = "file:///Users/Chu/Desktop/IOS/Playground/Sort.playground#CharacterRangeLen=535&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=35&amp;EndingLineNumber=26&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=538993618.387627"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/Chu/Desktop/IOS/Playground/Sort.playground#CharacterRangeLen=517&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=27&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=538991325.4089251"
+         documentLocation = "file:///Users/Chu/Desktop/IOS/Playground/Sort.playground#CharacterRangeLen=535&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=35&amp;EndingLineNumber=26&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=538993618.3877881"
          lockedSize = "{175, 50}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Chu/Desktop/IOS/Playground/Sort.playground#CharacterRangeLen=192&amp;CharacterRangeLoc=535&amp;EndingColumnNumber=13&amp;EndingLineNumber=31&amp;StartingColumnNumber=35&amp;StartingLineNumber=26&amp;Timestamp=538993618.387957"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>

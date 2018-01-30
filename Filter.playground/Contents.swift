@@ -21,5 +21,17 @@ let bigFilterTransactions = transactions.filter { $0 >= 500 }
 
 // filter함수는 배열 요소를 매개 변수로 받고, Bool형으로 반환하는 함수를 전달받는다.
 // 각각의 요소가 조건을 충족하는지 그렇지 않은지를 검사해 반환한다.
+// 중고 맥북 거래와 관련된 데이터들을 거를때, filter를 이용하면.
+// Macs - Product=String,Size=Int, Release Date=Sting, Spec=String,Battery Cycle=Int
+// 일단 Dictionary형태로 연습한다.
+
+var Macbooks : [String:Int] = ["Macbook-Pro":15, "Macbook-Air":13,"IMac":27]
+
+let hope = 15
+
+let available = Macbooks.filter{ $0.1 >= hope }
+
+
+//Dictionary는 key와 value의 쌍이므로, $0에서 .을 찍어 튜플의 내부 요소로 접근한다.
 
 

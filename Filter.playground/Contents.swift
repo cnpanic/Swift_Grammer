@@ -30,7 +30,7 @@ var Macbooks : [String:Int] = ["Macbook-Pro":15, "Macbook-Air":13,"IMac":27]
 let hope = 15
 
 let available = Macbooks.filter{ $0.1 >= hope }
-
+print(available)
 
 //Dictionary는 key와 value의 쌍이므로, $0에서 .을 찍어 튜플의 내부 요소로 접근한다.
 
